@@ -1,0 +1,27 @@
+body{
+    font-family:"Arial";
+    font-size: 18px;
+    line-height: 40px;
+}
+.shadow {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+    padding: 10px;
+}
+.name{
+    margin-left: 40px;
+    color: #de6aff;;
+    font-family: "Arial Rounded MT Bold";
+    padding-bottom: 10px;
+}
+
+.title{
+    color: #de6aff;
+    font-family: "Arial Rounded MT Bold";
+    padding-bottom: 10px;
+}
+.Languages li{
+    font-weight: bold;
+}
+.projects a{
+    color: black;
+}
