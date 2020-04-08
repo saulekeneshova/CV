@@ -24,4 +24,5 @@ body{
 }
 .projects a{
     color: black;
+    font-weight: bold;
 }
